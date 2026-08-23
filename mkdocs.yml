@@ -14,5 +14,9 @@ nav:
       - Configuration: reference/configuration.md
   - Explanation:
       - Project Overview: explanation/project-overview.md
+      - Project Architecture: explanation/project-architecture.md
   - Architecture Decisions:
       - ADR 0001: adr/0001-project-stack.md
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid.js
