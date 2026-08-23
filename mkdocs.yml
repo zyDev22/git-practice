@@ -1,0 +1,18 @@
+site_name: Git Practice Documentation
+docs_dir: docs
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Tutorial:
+      - Getting Started: tutorial/getting-started.md
+  - How-to:
+      - Working with Git: how-to/working-with-git.md
+  - Reference:
+      - Configuration: reference/configuration.md
+  - Explanation:
+      - Project Overview: explanation/project-overview.md
+  - Architecture Decisions:
+      - ADR 0001: adr/0001-project-stack.md
