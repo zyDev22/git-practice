@@ -1,0 +1,23 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "This repository is used to practice Git and GitHub.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyDev22/git-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyDev22/git-practice/issues"
+  },
+  "homepage": "https://github.com/zyDev22/git-practice#readme"
+}
